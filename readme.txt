@@ -8,3 +8,4 @@ modif readme.txt
 4444 git master
 
 555 git commit not fast foward
+this is learngit dev
