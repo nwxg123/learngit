@@ -9,5 +9,5 @@ modif readme.txt
 
 555 git commit not fast foward
 
-this is learngit2 and learngit dev
+this is learngit2 and learngit dev  >>ok,the conflict has been fixed
 
